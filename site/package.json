@@ -12,7 +12,7 @@
     "@vueuse/head": "^0.7.12",
     "katex": "^0.16.2",
     "localforage": "^1.10.0",
-    "monaco-editor": "^0.34.0",
+    "monaco-editor": "^0.35.0",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.22",
     "splitpanes": "^3.1.1",
